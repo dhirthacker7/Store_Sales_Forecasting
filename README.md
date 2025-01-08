@@ -8,8 +8,6 @@
 
 # Store Sales Forecasting 
 
-## Team 7: Nishita Matlani & Dhir Thacker
-
 This project aims at creating a robust forecasting model to predict daily retail sales, enabling retailers to make informed decisions and optimize their operations in an economically volatile environment, primarily affected by fluctuating oil prices.
 
 ### Table of Contents
