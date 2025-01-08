@@ -1,12 +1,4 @@
-# Store-Sales-Forecasting | Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, XGBoost, CatBoost
-
--	Developed highly accurate sales forecasting models using advanced machine learning techniques – XGBoost and CatBoost, leading to a 47% improvement in accuracy.
--	Utilized Jupyter Notebook to analyze vast sales datasets encompassing transactions, promotions, store details, holidays, and economic factors.
-
-
-
-
-# Store Sales Forecasting 
+# Store Sales Forecasting | Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, XGBoost, CatBoost
 
 This project aims at creating a robust forecasting model to predict daily retail sales, enabling retailers to make informed decisions and optimize their operations in an economically volatile environment, primarily affected by fluctuating oil prices.
 
