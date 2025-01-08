@@ -129,7 +129,4 @@ git clone <repository-url>
 cd <repository-name>
 # Install required Python packages
 pip install -r requirements.txt
-
-
-
-
+```
