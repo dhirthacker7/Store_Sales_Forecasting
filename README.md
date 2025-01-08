@@ -73,7 +73,7 @@ Linear Regression was applied to capture linear trends over time, treating the '
 
 ### Time Plot of Total Store Sales
 
-![Time Plot of Total Store Sales](https://github.com/Nishieee/Store-Sales-Forecasting/blob/main/images/LR_TimeSeries.png)
+![Time Plot of Total Store Sales](https://github.com/dhirthacker7/Store_Sales_Forecasting/blob/main/images/LR_TimeSeries.png)
 
 The graph titled "Time Plot of Total Store Sales" displays two sets of time-series data: the actual sales (in grey) and the predicted sales (in blue), over a span from January to April 2021. Each point on the time series represents a daily sales figure, with the actual sales depicted as a lighter grey line with a dot marker for each day, and the predicted sales shown as a solid, darker blue line.
 
@@ -89,7 +89,7 @@ Ridge regression was employed to address multicollinearity among features and pr
 
 The plot below compares actual sales with the sales predicted by two different models over time. Actual sales are represented by a semi-transparent pink line, while the predictions from Model 1 and Model 2 are shown as a dashed red line and a dotted green line, respectively. This visual comparison allows for the assessment of each model's accuracy, with the proximity of the predicted lines to the actual sales indicating the level of precision. Deviations between the predictions and actual sales provide insights into the models' performance, highlighting areas for potential improvement. The plot is a visual tool for evaluating and contrasting the forecasting capabilities of the two predictive models.
 
-![Lag Features vs Rolling Averages](https://github.com/Nishieee/Store-Sales-Forecasting/blob/main/images/LR_Actual_vs_pred.png)
+![Lag Features vs Rolling Averages](https://github.com/dhirthacker7/Store_Sales_Forecasting/blob/main/images/LR_Actual_vs_pred.png)
 
 
 ## XGBoost Model Optimization
@@ -122,7 +122,7 @@ Decision Trees served as a straightforward, interpretable model for sales foreca
 
 Based on the RMSE scores obtained from the cross-validation process, we can conclude that the XGBoost model outperforms the other three models with the lowest RMSE mean of 538.97, indicating that it is the most accurate in terms of prediction among the tested models for this dataset. The ensemble methods like XGBoost and Random Forest are more effective for this dataset compared to a single decision tree or a linear approach.
 
-![Comparison plot of ML Models](https://github.com/Nishieee/Store-Sales-Forecasting/blob/main/images/Comaprison_models.png)
+![Comparison plot of ML Models](https://github.com/dhirthacker7/Store_Sales_Forecasting/blob/main/images/Comaprison_models.png)
 
 ``
 
